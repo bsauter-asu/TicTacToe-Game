@@ -2,7 +2,7 @@
 
 
 
-A simple TicTacToe game implementation in Java.
+A simple TicTacToe game implementation in Java that is also teaching us how to effectively use git. This file was last updated on GitHub.
 
 ## Features
 
